@@ -37,8 +37,7 @@
     "Python.main.executor": "Run",
     "Python.order-system.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Vova"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
